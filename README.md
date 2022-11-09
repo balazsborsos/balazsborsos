@@ -1,6 +1,6 @@
 ## Hey there!
 
-I am _Balázs Borsos_, a driven and ambitious student, seeking challenges to tackle to make the world a better place through technology. Currently I am a master's student at [Vrije Universiteit Amsterdam](https://vu.nl/en) studying Artificial Intelligence, and looking for thesis internship positions to finish my degree. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning.
+I am _Balázs Borsos_, a driven and ambitious individual, seeking challenges to tackle to make the world a better place through technology. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning. Currently I am working as a Researcher at [Medis Medical Imaging](https://medisimaging.com/).
 
 
 ## Connect With Me
